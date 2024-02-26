@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CMP//MENTORSHIP//EN
+
+BEGIN:VEVENT
+UID:uid1@cmp.icgc
+SUMMARY:Mentor-Mentee in-person pairing
+DTSTAMP:20240302T000000Z
+DTSTART:20240214T170000Z
+DTEND:20240214T180000Z
+DESCRIPTION:Mentor-Mentee in-person pairing; Please be there on time
+LOCATION:TBD
+END:VEVENT
+
+BEGIN:VEVENT
+UID:uid2@cmp.icgc
+SUMMARY:Workshop 1
+DTSTAMP:20240226T000000Z
+DTSTART:20240420T170000Z
+DTEND:20240420T200000Z
+DESCRIPTION:Mentor-Mentee in-person pairing; Please be there on time
+LOCATION:MidPointe Liberty West Chester Public Library - 9363 Center Pointe Dr, West Chester Township, OH, 45069
+END:VEVENT
+
+BEGIN:VEVENT
+UID:uid2@cmp.icgc
+SUMMARY:Workshop 2
+DTSTAMP:20240226T000000Z
+DTSTART:20240511T170000Z
+DTSTART:20240511T200000Z
+DESCRIPTION:Mentor-Mentee in-person pairing; Please be there on time
+LOCATION:MidPointe Liberty West Chester Public Library - 9363 Center Pointe Dr, West Chester Township, OH, 45069
+END:VEVENT
+
+END:VCALENDAR
