@@ -23,7 +23,7 @@ LOCATION:MidPointe Liberty West Chester Public Library - 9363 Center Pointe Dr, 
 END:VEVENT
 
 BEGIN:VEVENT
-UID:uid2@cmp.icgc
+UID:uid3@cmp.icgc
 SUMMARY:Workshop 2
 DTSTAMP:20240226T000000Z
 DTSTART:20240511T170000Z
